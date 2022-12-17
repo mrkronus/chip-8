@@ -1,4 +1,4 @@
-<h1>Chip-8</h1>
+<h1>mrkronus/chip-8</h1>
 
 This project is a Chip-8 emulator written in C# for windows. It works well enough to play a number of games but is not complete. This project was made primarily as a learning exercise for myself to get familiar with concepts used in emulation. Maybe I will come back to this at a later date and finish it.
 
